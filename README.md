@@ -38,7 +38,7 @@ Convert the video to an animated gif using a free converter like [ezgif.com](htt
 Samples of Student Work
 -----------------------
 Ms. Padilla <br>
-[Yailyn] <br> (https://github.com/yailyn441/VirtualPet_Part2/blob/main/IMG_89021-ezgif.com-video-to-gif-converter.gif)
+[Yailyn](https://github.com/yailyn441/VirtualPet_Part2/blob/main/IMG_89021-ezgif.com-video-to-gif-converter.gif) <br>
 Elena <br>
 Truman <br>
 Ryan  <br>
