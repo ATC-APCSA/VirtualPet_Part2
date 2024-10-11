@@ -40,15 +40,15 @@ Samples of Student Work
 Ms. Padilla <br>
 [Yailyn](https://github.com/yailyn441/VirtualPet_Part2/blob/main/IMG_89021-ezgif.com-video-to-gif-converter.gif) <br>
 Elena <br>
-Truman <br>
+[Truman](https://github.com/truman-ev/VirtualPet_Part2/blob/main/ezgif.com-video-to-gif-converter.gif) <br>
 Ryan  <br>
 Trinley <br>
-Leto <br>
-Melanie <br>
+[Leto](https://github.com/Khilitt/VirtualPet_Part2/blob/main/Recording2024-10-11105027-ezgif.com-effects.gif) <br>
+[Melanie](https://github.com/malmel5573/VirtualPet_Part2/blob/main/MelanieLopez_VirtualPet_Part2.gif) <br>
 Rosa <br>
-Amulya <br>
-Diego <br>
-Nico <br>
+[Amulya](https://github.com/amul-gif/VirtualPet_Part2/blob/main/ScreenRecording2024-10-09103332-ezgif.com-video-to-gif-converter.gif) <br>
+[Diego](https://github.com/Diego-pixel449/VirtualPet_Part2/blob/main/ScreenRecording2024-10-11115548-ezgif.com-video-to-gif-converter.gif) <br>
+[Nico](https://github.com/NicolasTaccetti/NTVirtualPet/blob/main/VirtualPet-ezgif.com-video-to-gif-converter.gif) <br>
 Giselle <br>
 
 
