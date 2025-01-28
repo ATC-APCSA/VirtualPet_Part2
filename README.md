@@ -1,3 +1,5 @@
+This script is code by Art Simon (https://github.com/simart)
+
 # Use the light sensor in an Adafruit Circuit Playground as an input device in a Processing program
 In this Arduino lab you will write a program that gets input from the light sensor in the [Adafruit Circuit Playground](https://www.adafruit.com/product/3000) and uses it as an controller so that you can interact with your Virtual Pet from the [previous assignment](https://github.com/ATC-APCSA/VirtualPet).
 
